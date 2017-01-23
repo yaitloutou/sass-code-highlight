@@ -7,7 +7,7 @@ $background: #272822;
     background-color: #49483e;
   }
   .c {
-    color: #75715e;
+    color: #a8a38d;
   }
   .err {
     color: #960050;
@@ -29,7 +29,7 @@ $background: #272822;
     color: #f8f8f2;
   }
   .cm, .cp, .c1, .cs {
-    color: #75715e;
+    color: #a8a38d;
   }
   .ge {
     font-style: italic;
@@ -129,7 +129,8 @@ $background: #272822;
 
 code{
   background-color: "#282C34";
-}
+  color: whitesmoke;}
 pre {
   background-color: "#282C34";
+  color: whitesmoke;
 }
